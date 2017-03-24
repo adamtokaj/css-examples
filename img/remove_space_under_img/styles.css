@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content {
+    width: 500px;
+    border: 1px solid black;
+}
+
+.img-wrapper {
+    width: 100%;
+    height: 100%;
+}
+
+/*
+  http://stackoverflow.com/a/5804278
+  remove additional space under image
+*/
+.img-line-fix {
+    display: block;
+}
